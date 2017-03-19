@@ -1,0 +1,1 @@
+<?php echo "testando minha publicação"; ?>
